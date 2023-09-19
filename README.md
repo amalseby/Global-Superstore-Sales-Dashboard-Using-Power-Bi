@@ -20,6 +20,8 @@ This will help them make informed decisions about how to improve their sales per
 Overall, my ultimate goal is to provide useful insights and actionable information that can support strategic decision-making and help businesses achieve their objectives.
 
 # Interactive Dashboard
+<img width="1436" alt="Screen Shot 2023-09-19 at 3 47 58 pm" src="https://github.com/amalseby/Global-Superstore-Sales-Dashboard-Using-Power-Bi/assets/60167060/6da7b31e-bbc2-4f63-a511-26d625c1f1d1">
+
 
 # Sales Forecasting for the next 6 months
 
