@@ -1,4 +1,4 @@
-# Global-Superstore-Sales-Dashboard-Using-Power-Bi
+# Global Superstore Sales Analysis
 
 # Objective
 To contribute to the success of a business by utilizing data analysis techniques,
